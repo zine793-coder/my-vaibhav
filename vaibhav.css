@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+p {
+    color: #000;
+  font-size: 30px;
+  line-height: 32px;
+  width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+
+  background-image: linear-gradient(to bottom, transparent 31px, );
+  background-size: 100% 32px;
+}
+
+p {
+    background-color: rgb(10, 10, 238);
+}
+
+h1 {
+    color: red;
+}
+
+body {
+    background-color: rgb(33, 2, 236);
+}
